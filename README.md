@@ -14,8 +14,6 @@ project-root/
 ├── report/
 │   ├── fuel_efficiency_report.pdf
 │   └── true_vs_predicted_mpg.png
-├── slides/
-│   └── presentation.pptx
 └── README.md
 ```
 ## 📊 Dataset
@@ -95,7 +93,6 @@ The script will:
 ## 📄 Report & Presentation
 
 - Full project report is located in /report/
-- Slides are located in /slides/
 
 Both include:
 - Dataset description
