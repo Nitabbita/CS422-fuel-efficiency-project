@@ -4,6 +4,8 @@ This project predicts a vehicle's fuel efficiency (Miles Per Gallon, MPG) using 
 
 ## 📦 Project Structure
 
+
+```
 project-root/
 ├── code/
 │   └── knn_mpg.py
@@ -15,7 +17,7 @@ project-root/
 ├── slides/
 │   └── presentation.pptx
 └── README.md
-
+```
 ## 📊 Dataset
 
 Auto MPG dataset (UCI Machine Learning Repository)
